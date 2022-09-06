@@ -17,7 +17,7 @@ If actually running the jupyter notebook is desired, then install all necessary 
 
 This project analyzes San Francisco housing data from 2010 to 2016. Data is first pulled from .csv files from the Resources folder and cleaned. Some of the data is combined. Then the data can be plotted to compare trends on average rentals vs. average price per square foot when it comes to sales:
 
-![San Francisco Rent vs. Price per sqft](bokeh_plot_(1).png)
+![San Francisco Rent vs. Price per sqft](bokeh_plot (1).png)
 
 The same variables can be plotted for each neighborhood by using the "groupby" function:
 
